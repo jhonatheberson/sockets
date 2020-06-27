@@ -1,0 +1,5 @@
+TAREFA SOCKETS 3 - https://youtu.be/oX3uWuwxvq8
+
+TEAREFA SOCKETS-ANALISE 4 -  https://youtu.be/pPDhM7T5jsc
+
+CODIGOS USADOS - https://github.com/jhonatheberson/sockets
